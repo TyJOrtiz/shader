@@ -47,16 +47,6 @@ namespace Mustastic.Shaders
             this.colorFour = App.ApplicationViewModel.color4;
         }
 
-
-        //public MyCustomFourColorGradient(List<Color> v) : this()
-        //{
-        //    this.colorOne = new Float3(v[0].R / 255f, v[0].G / 255f, v[0].B / 255f);
-        //    this.colorTwo = new Float3(v[1].R / 255f, v[1].G / 255f, v[1].B / 255f);
-        //    this.colorThree = new Float3(v[2].R / 255f, v[2].G / 255f, v[2].B / 255f);
-        //    this.colorFour = new Float3(v[3].R / 255f, v[3].G / 255f, v[3].B / 255f);
-        //}
-
-
         /// <summary>
         /// Standard 2D rotation formula.
         /// </summary>
